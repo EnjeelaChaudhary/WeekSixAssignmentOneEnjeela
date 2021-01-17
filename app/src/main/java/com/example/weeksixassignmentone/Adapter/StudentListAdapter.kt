@@ -14,6 +14,8 @@ import com.example.weeksixassignmentone.R
 import com.bumptech.glide.Glide
 import com.reshika.softusersoftwarica.Model.Student
 
+
+//studentlist
 class StudentListAdapter(
     val context: Context,
     val lstStudent: ArrayList<Student>) :
