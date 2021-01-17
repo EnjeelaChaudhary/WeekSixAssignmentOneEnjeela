@@ -12,7 +12,8 @@ import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.example.weeksixassignmentone.R
 import com.bumptech.glide.Glide
-import com.reshika.softusersoftwarica.Model.Student
+import com.example.weeksixassignmentone.Model.Student
+
 
 
 //studentlist

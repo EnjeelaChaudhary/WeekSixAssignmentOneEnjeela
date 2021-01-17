@@ -9,7 +9,8 @@ import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import com.example.weeksixassignmentone.Dashboard.DashboardActivity
-import com.reshika.softusersoftwarica.Model.User
+import com.example.weeksixassignmentone.Model.User
+
 
 class MainActivity : AppCompatActivity() {
     private lateinit var etUsername:EditText

@@ -9,11 +9,9 @@ import android.view.ViewGroup
 import android.widget.*
 import com.example.weeksixassignmentone.Dashboard.DashboardActivity
 import com.example.weeksixassignmentone.R
-import com.reshika.softusersoftwarica.Model.Student
 
-//import com.reshika.softusersoftwarica.Dashboard.DashboardActivity
-//import com.reshika.softusersoftwarica.Model.Student
-//import com.reshika.softusersoftwarica.R
+import com.example.weeksixassignmentone.Model.Student
+
 
 class Student_Fragment : Fragment() {
 

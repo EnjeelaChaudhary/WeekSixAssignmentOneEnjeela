@@ -10,7 +10,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.weeksixassignmentone.Adapter.StudentListAdapter
 import com.example.weeksixassignmentone.Dashboard.DashboardActivity
 import com.example.weeksixassignmentone.R
-import com.reshika.softusersoftwarica.Model.Student
+import  com.example.weeksixassignmentone.Model.Student
+
 
 class Home_Fragment : Fragment() {
 

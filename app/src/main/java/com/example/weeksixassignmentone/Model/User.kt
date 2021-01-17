@@ -1,4 +1,4 @@
-package com.reshika.softusersoftwarica.Model
+package com.example.weeksixassignmentone.Model;
 
 class User {
 

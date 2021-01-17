@@ -1,5 +1,5 @@
-package com.reshika.softusersoftwarica.Model
 
+package com.example.weeksixassignmentone.Model
 import android.os.Parcel
 import android.os.Parcelable
 import androidx.lifecycle.ViewModel
